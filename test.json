@@ -1,1 +1,6 @@
-{"hello":"Apple","integer":100,"str":"world"}
+{
+    "hello": "Apple",
+    "int": 100,
+    "string": "world",
+    "boolean": false
+}
